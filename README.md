@@ -411,4 +411,4 @@ LeetCode
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)| |Hard|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| |Medium|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| |Medium|
-|1|[Two Sum](https://leetcode.com/problems/two-sum/) | [java](./algorithms/java/twoSum.md), [js](./algorithms/js/twoSum.md) |Easy|
+|1|[Two Sum](https://leetcode.com/problems/two-sum/) | [java](./algorithms/twoSum/twoSum-java.md), [js](./algorithms/twoSum/twoSum-js.md) |Easy|
