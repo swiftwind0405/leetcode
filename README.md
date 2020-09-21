@@ -407,8 +407,8 @@ LeetCode
 |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)| |Easy|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)| |Easy|
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)| |Easy|
-|5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)| |Medium|
+|5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)| |Medium|
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)| |Hard|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| |Medium|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| |Medium|
-|1|[Two Sum](https://leetcode.com/problems/two-sum/) | [js](./algorithms/js/twoSum.md) |Easy|
+|1|[Two Sum](https://leetcode.com/problems/two-sum/) | [java](./algorithms/java/twoSum.md) | [js](./algorithms/js/twoSum.md) |Easy|
