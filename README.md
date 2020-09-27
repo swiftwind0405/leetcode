@@ -276,7 +276,7 @@ LeetCode
 |139|[Word Break](https://leetcode.com/problems/word-break/)| |Medium|
 |138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)| |Hard|
 |137|[Single Number II](https://leetcode.com/problems/single-number-ii/)| |Medium|
-|136|[Single Number](https://leetcode.com/problems/single-number/)| |Medium|
+|136|[Single Number](https://leetcode.com/problems/single-number/)| [java](./algorithms/singleNum/Solution.java)  |Medium|
 |135|[Candy](https://leetcode.com/problems/candy/)| |Hard|
 |134|[Gas Station](https://leetcode.com/problems/gas-station/)| |Medium|
 |133|[Clone Graph](https://leetcode.com/problems/clone-graph/)| |Medium|
