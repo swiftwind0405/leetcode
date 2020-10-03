@@ -301,8 +301,8 @@ LeetCode
 |114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)| |Medium|
 |113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/)| |Medium|
 |112|[Path Sum](https://leetcode.com/problems/path-sum/)| |Easy|
-|111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)| [java](./algorithms/balancedBinaryTree/Solution.java) |Easy|
-|110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)| |Easy|
+|111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)| |Easy|
+|110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)| [java](./algorithms/balancedBinaryTree/Solution.java) |Easy|
 |109|[Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)| |Medium|
 |108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)| |Medium|
 |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)| |Easy|
@@ -312,7 +312,7 @@ LeetCode
 |103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)| |Medium|
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)| |Easy|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)| [java](./algorithms/sysmetricTree/Solution.java) |Easy|
-|100|[Same Tree](https://leetcode.com/problems/same-tree/)| |Easy|
+|100|[Same Tree](https://leetcode.com/problems/same-tree/)| [java](./algorithms/sameTree/Solution.java) |Easy|
 |99|[Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)| |Hard|
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)| |Medium|
 |97|[Interleaving String](https://leetcode.com/problems/interleaving-string/)| |Hard|
