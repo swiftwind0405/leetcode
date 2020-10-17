@@ -71,6 +71,7 @@ LeetCode
 |647|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | |Medium|
 |643|[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/) | |Easy|
 |628|[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | |Easy|
+|627|[Swap Salary](https://leetcode.com/problems/swap-salary/) [Mysql](./algorithm/swapSalary/Solution.java) | |Easy|
 |623|[Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/) | |Medium|
 |581|[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | |Easy|
 |572|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | |Easy|
