@@ -239,7 +239,7 @@ LeetCode
 |187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)| |Medium|
 |186|[Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/) &hearts; | |Medium|
 |179|[Largest Number](https://leetcode.com/problems/largest-number/) | |Medium|
-|175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) ｜ [Mysql](./algorithms/combineTwoTable/Solution.java) | |Easy|
+|175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)｜ [Mysql](./algorithms/combineTwoTable/Solution.java) | |Easy|
 |174|[Dungeon Game](https://leetcode.com/problems/dungeon-game/) | |Hard|
 |173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | |Medium|
 |172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | |Easy|
