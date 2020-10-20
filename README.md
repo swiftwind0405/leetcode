@@ -397,7 +397,7 @@ LeetCode
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| [js](./algorithms/validParentheses/validParentheses.js) |Easy|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)| [js](./algorithms/removeNthNodeFromEndOfList/removeNthNodeFromEndOfList.js) |Easy|
 |18|[4Sum](https://leetcode.com/problems/4sum/)| [js](./algorithms/4Sum/4Sum.js) |Medium|
-|17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)| |Medium|
+|17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)| [js](./algorithms/letterCombinationsOfAPhoneNumber/letterCombinationsOfAPhoneNumber.js) |Medium|
 |16|[3Sum Closest](https://leetcode.com/problems/3sum-closest/)| |Medium|
 |15|[3Sum](https://leetcode.com/problems/3sum/)| [js](./algorithms/3Sum/3Sum.js) |Medium|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)| [js](./algorithms/longestCommonPrefix/longestCommonPrefix.js) |Easy|
