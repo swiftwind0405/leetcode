@@ -232,12 +232,15 @@ LeetCode
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)| |Medium|
 |199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)| |Medium|
 |198|[House Robber](https://leetcode.com/problems/house-robber/)| |Easy|
+|196|[Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)| [Mysql](./algorithms/deleteDuplicateEmails/Solution.sql) |Easy| 
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)| [java](./algorithms/numberof1bits/Solution.java) |Easy|
 |190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)| |Easy|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)| |Easy|
 |188|[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)| |Hard|
 |187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)| |Medium|
 |186|[Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/) &hearts; | |Medium|
+|183|[Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)| [Mysql](./algorithms/customersWhoNeverOrder/Solution.sql) |Easy| 
+|182|[Duplicate Email](https://leetcode.com/problems/duplicate-emails/)| [Mysql](./algorithms/duplicateEmails/Solution.sql) |Easy| 
 |179|[Largest Number](https://leetcode.com/problems/largest-number/) | |Medium|
 |175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)| [Mysql](./algorithms/combineTwoTable/Solution.sql) |Easy|
 |174|[Dungeon Game](https://leetcode.com/problems/dungeon-game/) | |Hard|
