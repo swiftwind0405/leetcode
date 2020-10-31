@@ -1,7 +1,6 @@
-LeetCode
-========
+# LeetCode
 
-### LeetCode Algorithm
+## LeetCode Algorithm
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -116,7 +115,7 @@ LeetCode
 |390|[Elimination Game](https://leetcode.com/problems/elimination-game/) | |Medium|
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference/) | |Easy|
 |388|[Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/) | |Medium|
-|387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | |Easy|
+|387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [js](./algorithms/firstUniqueCharacterInAString/firstUniqueCharacterInAString.js) |Easy|
 |386|[Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/) | |Medium|
 |385|[Mini Parser](https://leetcode.com/problems/mini-parser/) | |Medium|
 |384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) | |Medium|
@@ -133,7 +132,7 @@ LeetCode
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [js](./algorithms/intersectionOfTwoArrays/intersectionOfTwoArrays.js) |Easy|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | |Medium|
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | |Easy|
-|344|[Reverse String](https://leetcode.com/problems/reverse-string/) [java](./algorithms/resverseString/Solution.java) | |Easy|
+|344|[Reverse String](https://leetcode.com/problems/reverse-string/) [java](./algorithms/resverseString/Solution.java), [js](./algorithms/resverseString/resverseString.js) | |Easy|
 |343|[Integer Break](https://leetcode.com/problems/integer-break/) | |Medium|
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/) | |Easy|
 |341|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | |Medium|
@@ -396,7 +395,7 @@ LeetCode
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)| [js](./algorithms/swapNodesInPairs/swapNodesInPairs.js) |Medium|
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)| |Hard|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)| [js](./algorithms/generateParentheses/generateParentheses.js) |Medium|
-|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [java](./algorithm/mergeTwoSortedLists/Solution.java) |Easy|
+|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [java](./algorithm/mergeTwoSortedLists/Solution.java), [js](./algorithms/mergeTwoSortedLists/mergeTwoSortedLists.js) |Easy|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| [js](./algorithms/validParentheses/validParentheses.js) |Easy|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)| [js](./algorithms/removeNthNodeFromEndOfList/removeNthNodeFromEndOfList.js) |Easy|
 |18|[4Sum](https://leetcode.com/problems/4sum/)| [js](./algorithms/4Sum/4Sum.js) |Medium|
