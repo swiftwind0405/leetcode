@@ -72,6 +72,7 @@
 |628|[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | |Easy|
 |627|[Swap Salary](https://leetcode.com/problems/swap-salary/) | [Mysql](./algorithm/swapSalary/Solution.java) | |Easy|
 |623|[Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/) | |Medium|
+|595|[Big Countries](https://leetcode.com/problems/big-countries/)| [Mysql](./algorithms/bigCountries/Solution.sql) |Easy|
 |581|[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | |Easy|
 |572|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | |Easy|
 |563|[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/) | [java](./algorithms/binaryTreeTilt/Solution.java) |Easy|
@@ -240,7 +241,9 @@
 |186|[Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/) &hearts; | |Medium|
 |183|[Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)| [Mysql](./algorithms/customersWhoNeverOrder/Solution.sql) |Easy| 
 |182|[Duplicate Email](https://leetcode.com/problems/duplicate-emails/)| [Mysql](./algorithms/duplicateEmails/Solution.sql) |Easy| 
+|181|[Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/)| [Mysql](./algorithms/employeesEarningMoreThanTheirManagers/Solution.sql) |Easy| 
 |179|[Largest Number](https://leetcode.com/problems/largest-number/) | |Medium|
+|176|[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)| [Mysql](./algorithms/secondHightestSalary/Solution.sql) |Easy|
 |175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)| [Mysql](./algorithms/combineTwoTable/Solution.sql) |Easy|
 |174|[Dungeon Game](https://leetcode.com/problems/dungeon-game/) | |Hard|
 |173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | |Medium|
