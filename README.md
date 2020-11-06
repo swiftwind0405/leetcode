@@ -6,6 +6,7 @@
 |---| ----- | -------- | ---------- |
 |1207|[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | |Easy|
 |1170|[Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/) | |Easy|
+|1137|[N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | [js](./algorithms/nThTribonacciNumber/nThTribonacciNumber.js)  |Easy|
 |1071|[Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | |Easy|
 |1030|[Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order/) | |Easy|
 |1029|[Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/) | |Easy|
@@ -312,7 +313,7 @@
 |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)| |Easy|
 |106|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)| |Medium|
 |105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)| |Medium|
-|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| |Easy|
+|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| [js](./algorithms/maximumDepthOfBinaryTree/maximumDepthOfBinaryTree.js) |Easy|
 |103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)| |Medium|
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)| |Easy|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)| [java](./algorithms/sysmetricTree/Solution.java) |Easy|
@@ -416,3 +417,9 @@
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| [js](./algorithms/longestSubstringWithoutRepeatingCharacters/longestSubstringWithoutRepeatingCharacters.js) |Medium|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| [js](./algorithms/addTwoNumbers/addTwoNumbers.js) |Medium|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/) | [java](./algorithms/twoSum/twoSum.java), [js](./algorithms/twoSum/twoSum.js), [python](./algorithms/twoSum/twoSum.py) |Easy|
+
+## 面试题
+
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|面试题 08.06|[汉诺塔问题](https://leetcode-cn.com/problems/hanota-lcci/) | [js](./algorithms/hanotaLcc/hanotaLcc.js) |Easy|
