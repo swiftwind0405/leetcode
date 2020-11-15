@@ -370,7 +370,7 @@
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)| |Hard|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/)| |Medium|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)| |Medium|
-|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)| |Medium|
+|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)| [js](./algorithms/maximumSubarray/maximumSubarray.js) |Medium|
 |52|[N-Queens II](https://leetcode.com/problems/n-queens-ii/)| |Hard|
 |51|[N-Queens](https://leetcode.com/problems/n-queens/)| |Hard|
 |50|["Pow(x, n)"](https://leetcode.com/problems/powx-n/)| |Medium|
@@ -416,7 +416,7 @@
 |10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)| |Hard|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)| |Easy|
 |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)| |Easy|
-|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)| |Easy|
+|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)| [js](./algorithms/reverseInteger/reverseInteger.js) |Easy|
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)| |Easy|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)| |Medium|
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)| |Hard|
