@@ -5,6 +5,7 @@
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1207|[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | |Easy|
+|1179|[Reformat Department Table](https://leetcode.com/problems/reformat-department-table/)| [Mysql](./algorithms/reformatDepartmentTable/Solution.sql) |Easy| 
 |1170|[Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/) | |Easy|
 |1137|[N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | [js](./algorithms/nThTribonacciNumber/nThTribonacciNumber.js)  |Easy|
 |1071|[Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | |Easy|
@@ -73,6 +74,7 @@
 |628|[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | |Easy|
 |627|[Swap Salary](https://leetcode.com/problems/swap-salary/) | [Mysql](./algorithm/swapSalary/Solution.java) | |Easy|
 |623|[Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/) | |Medium|
+|620|[Not Boring Movies](https://leetcode.com/problems/not-boring-movies/)| [Mysql](./algorithms/notBoringMovies/Solution.sql) |Easy|
 |595|[Big Countries](https://leetcode.com/problems/big-countries/)| [Mysql](./algorithms/bigCountries/Solution.sql) |Easy|
 |581|[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | |Easy|
 |572|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | |Easy|
@@ -246,6 +248,7 @@
 |182|[Duplicate Email](https://leetcode.com/problems/duplicate-emails/)| [Mysql](./algorithms/duplicateEmails/Solution.sql) |Easy| 
 |181|[Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/)| [Mysql](./algorithms/employeesEarningMoreThanTheirManagers/Solution.sql) |Easy| 
 |179|[Largest Number](https://leetcode.com/problems/largest-number/) | |Medium|
+|178|[Ranking Scores](https://leetcode.com/problems/rank-scores/)| [Mysql](./algorithms/rankScores/Solution.sql) |Easy|
 |177|[Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/)| [Mysql](./algorithms/nthHightestSalary/Solution.sql) |Easy|
 |176|[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)| [Mysql](./algorithms/secondHightestSalary/Solution.sql) |Easy|
 |175|[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)| [Mysql](./algorithms/combineTwoTable/Solution.sql) |Easy|
