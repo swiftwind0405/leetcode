@@ -37,7 +37,7 @@
 |951|[Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/) | |Medium|
 |950|[Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/) | |Medium|
 |941|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | |Easy|
-|933|[Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | |Easy|
+|933|[Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) [js](./algorithms/numberOfRecentCalls/numberOfRecentCallsjs) | |Easy|
 |931|[Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | |Medium|
 |929|[Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | |Easy|
 |922|[Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/) | |Easy|
