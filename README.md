@@ -255,10 +255,10 @@
 |174|[Dungeon Game](https://leetcode.com/problems/dungeon-game/) | |Hard|
 |173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) | |Medium|
 |172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | |Easy|
-|171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | |Easy|
+|171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [Java](./algorithms/excelSheetColumnNumber/Solution.java)  |Easy|
 |170|[Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/) &hearts; | |Easy|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/) | |Easy|
-|168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | |Easy|
+|168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | [Java](./algorithms/excelSheetColumnTitle/Solution.java)  |Easy|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) &hearts; | |Medium|
 |166|[Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) | |Medium|
 |165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | |Easy|
@@ -359,7 +359,7 @@
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)| [js](./algorithms/climbingStairs/climbingStairs.js), |Easy|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)| |Medium|
 |68|[Text Justification](https://leetcode.com/problems/text-justification/)| |Hard|
-|67|[Add Binary](https://leetcode.com/problems/add-binary/)| |Easy|
+|67|[Add Binary](https://leetcode.com/problems/add-binary/)| [java](./algorithms/addBinary/Solution.java) |Easy|
 |66|[Plus One](https://leetcode.com/problems/plus-one/)| |Easy|
 |65|[Valid Number](https://leetcode.com/problems/valid-number/)| |Easy|
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)| |Medium|
