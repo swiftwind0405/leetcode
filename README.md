@@ -281,7 +281,7 @@
 |148|[Sort List](https://leetcode.com/problems/sort-list/)| |Medium|
 |147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)| |Medium|
 |146|[LRU Cache](https://leetcode.com/problems/lru-cache/)| |Hard|
-|145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)| |Hard|
+|145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)| [js](./algorithms/binaryTreePostorderTraversal/binaryTreePostorderTraversal.js) |Hard|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)| [js](./algorithms/binaryTreePreorderTraversal/binaryTreePreorderTraversal.js) |Medium|
 |143|[Reorder List](https://leetcode.com/problems/reorder-list/)| |Medium|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)| |Medium|
@@ -332,7 +332,7 @@
 |97|[Interleaving String](https://leetcode.com/problems/interleaving-string/)| |Hard|
 |96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)| |Medium|
 |95|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)| |Medium|
-|94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)| |Medium|
+|94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)| [js](./algorithms/binaryTreeInorderTraversal/binaryTreeInorderTraversal.js) |Medium|
 |93|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/)| |Medium|
 |92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)| |Medium|
 |91|[Decode Ways](https://leetcode.com/problems/decode-ways/)| |Medium|
