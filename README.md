@@ -195,7 +195,7 @@
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)||Medium|
 |239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)| |Hard|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)| |Medium|
-|237|[Node in a Linked List](https://leetcode.com/problems/-node-in-a-linked-list/)| [js](./algorithms/nodeInALinkedList/nodeInALinkedList.js) |Easy|
+|237|[Node in a Linked List](https://leetcode.com/problems/-node-in-a-linked-list/)| [js](./algorithms/nodeInALinkedList/nodeInALinkedList.js),[java](./algorithms/nodeInALinkedList/Solution.java) |Easy|
 |236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)| |Medium|
 |235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)| |Easy|
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)| |Easy|
@@ -226,10 +226,10 @@
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)| |Medium|
 |208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)| |Medium|
 |207|[Course Schedule](https://leetcode.com/problems/course-schedule/)| |Medium|
-|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)| |Easy|
+|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)| [java](./algorithms/reverseLinkedList/Solution.java) |Easy|
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)| |Easy|
 |204|[Count Primes](https://leetcode.com/problems/count-primes/)| |Easy|
-|203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)| [js](./algorithms/removeLinkedListElements/removeLinkedListElements.js) |Easy|
+|203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)| [js](./algorithms/removeLinkedListElements/removeLinkedListElements.js),[java](./algorithms/removeLinkedListElements/Solution.java) |Easy|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)| |Easy|
 |201|[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)| |Medium|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)| |Medium|
