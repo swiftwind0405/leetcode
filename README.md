@@ -314,8 +314,8 @@
 |115|[Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)| |Hard|
 |114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)| |Medium|
 |113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/)| |Medium|
-|112|[Path Sum](https://leetcode.com/problems/path-sum/)| |Easy|
-|111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)| |Easy|
+|112|[Path Sum](https://leetcode.com/problems/path-sum/)| [js](./algorithms/pathSum/pathSum.js) |Easy|
+|111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)| [js](./algorithms/minimumDepthOfBinaryTree/minimumDepthOfBinaryTree.js) |Easy|
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)| [java](./algorithms/balancedBinaryTree/Solution.java) |Easy|
 |109|[Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)| |Medium|
 |108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)| |Medium|
@@ -324,7 +324,7 @@
 |105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)| |Medium|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| [js](./algorithms/maximumDepthOfBinaryTree/maximumDepthOfBinaryTree.js) |Easy|
 |103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)| |Medium|
-|102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)| |Easy|
+|102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)| [js](./algorithms/binaryTreeLevelOrderTraversal/binaryTreeLevelOrderTraversal.js) |Easy|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)| [java](./algorithms/sysmetricTree/Solution.java) |Easy|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/)| [java](./algorithms/sameTree/Solution.java) |Easy|
 |99|[Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)| |Hard|
