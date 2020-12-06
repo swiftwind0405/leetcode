@@ -198,7 +198,7 @@
 |237|[Node in a Linked List](https://leetcode.com/problems/-node-in-a-linked-list/)| [js](./algorithms/nodeInALinkedList/nodeInALinkedList.js),[java](./algorithms/nodeInALinkedList/Solution.java) |Easy|
 |236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)| |Medium|
 |235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)| |Easy|
-|234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)| |Easy|
+|234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)| [java](./algorithms/palindromeLinkedList/Solution.java) |Easy|
 |233|[Number of Digit One](https://leetcode.com/problems/number-of-digit-one/)| |Medium|
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)| |Easy|
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/)| |Easy|
@@ -266,7 +266,7 @@
 |163|[Missing Ranges](https://leetcode.com/problems/missing-ranges/) &hearts; | |Medium|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/) | |Medium|
 |161|[One Edit Distance](https://leetcode.com/problems/one-edit-distance/)&hearts; | |Medium|
-|160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | |Easy|
+|160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [java](./algorithms/intersectionOfTwoLinkedLists/Solution.java)  |Easy|
 |159|[Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/) &hearts; | |Hard|
 |158|[Read N Characters Given Read4 II - Call multiple times](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/) &hearts; | |Hard|
 |157|[Read N Characters Given Read4](https://leetcode.com/problems/read-n-characters-given-read4/) &hearts; | |Easy|
@@ -285,7 +285,7 @@
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)| [js](./algorithms/binaryTreePreorderTraversal/binaryTreePreorderTraversal.js) |Medium|
 |143|[Reorder List](https://leetcode.com/problems/reorder-list/)| |Medium|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)| |Medium|
-|141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)| |Medium|
+|141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)| [java](./algorithms/linkedListCycle/Solution.java) |Medium|
 |140|[Word Break II](https://leetcode.com/problems/word-break-ii/)| |Hard|
 |139|[Word Break](https://leetcode.com/problems/word-break/)| |Medium|
 |138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)| |Hard|
