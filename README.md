@@ -226,7 +226,7 @@
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)| |Medium|
 |208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)| |Medium|
 |207|[Course Schedule](https://leetcode.com/problems/course-schedule/)| |Medium|
-|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)| [java](./algorithms/reverseLinkedList/Solution.java) |Easy|
+|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)| [java](./algorithms/reverseLinkedList/Solution.java), [js](./algorithms/reverseLinkedList/reverseLinkedList.js) |Easy|
 |205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)| |Easy|
 |204|[Count Primes](https://leetcode.com/problems/count-primes/)| |Easy|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)| [js](./algorithms/removeLinkedListElements/removeLinkedListElements.js),[java](./algorithms/removeLinkedListElements/Solution.java) |Easy|
@@ -284,8 +284,8 @@
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)| [js](./algorithms/binaryTreePostorderTraversal/binaryTreePostorderTraversal.js) |Hard|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)| [js](./algorithms/binaryTreePreorderTraversal/binaryTreePreorderTraversal.js) |Medium|
 |143|[Reorder List](https://leetcode.com/problems/reorder-list/)| |Medium|
-|142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)| |Medium|
-|141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)| |Medium|
+|142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)| [js](./algorithms/linkedListCycleII/linkedListCycleII.js) |Medium|
+|141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)| [js](./algorithms/linkedListCycle/linkedListCycle.js) |Medium|
 |140|[Word Break II](https://leetcode.com/problems/word-break-ii/)| |Hard|
 |139|[Word Break](https://leetcode.com/problems/word-break/)| |Medium|
 |138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)| |Hard|
