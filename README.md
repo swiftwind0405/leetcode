@@ -75,6 +75,7 @@
 |627|[Swap Salary](https://leetcode.com/problems/swap-salary/) | [Mysql](./algorithm/swapSalary/Solution.java) | |Easy|
 |623|[Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/) | |Medium|
 |620|[Not Boring Movies](https://leetcode.com/problems/not-boring-movies/)| [Mysql](./algorithms/notBoringMovies/Solution.sql) |Easy|
+|617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)| [Java](./algorithms/mergeTwoBinaryTrees/Solution.java)
 |595|[Big Countries](https://leetcode.com/problems/big-countries/)| [Mysql](./algorithms/bigCountries/Solution.sql) |Easy|
 |581|[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | |Easy|
 |572|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | |Easy|
@@ -85,7 +86,7 @@
 |532|[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/) | |Easy|
 |520|[Detect Capital](https://leetcode.com/problems/detect-capital/) | |Easy|
 |518|[Coin Change 2](https://leetcode.com/problems/coin-change-2/) | |Medium|
-|509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | |Easy|
+|509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [java](./algorithms/fibonacciNumber/Solution.java) |Easy|
 |477|[Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/) | |Medium|
 |463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/) | |Easy|
 |450|[NodeInABST](https://leetcode.com/problems/-node-in-a-bst/) | |Medium|
@@ -419,7 +420,7 @@
 |10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)| |Hard|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)| |Easy|
 |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)| |Easy|
-|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)| [js](./algorithms/reverseInteger/reverseInteger.js) |Easy|
+|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)| [js](./algorithms/reverseInteger/reverseInteger.js),[java](./algorithms/reverseInteger/Solution.java)  |Easy|
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)| |Easy|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)| |Medium|
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)| |Hard|
