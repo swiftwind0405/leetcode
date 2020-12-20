@@ -2,8 +2,11 @@
 
 ## LeetCode Algorithm
 
+
+
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1464|[Maximum Product of Two Elements in An Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)| [java](./algorithms/maximumProductOfTwoElementsInAnArray/Solution.java) |Easy|
 |1207|[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | |Easy|
 |1179|[Reformat Department Table](https://leetcode.com/problems/reformat-department-table/)| [Mysql](./algorithms/reformatDepartmentTable/Solution.sql) |Easy| 
 |1170|[Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/) | |Easy|
@@ -78,6 +81,7 @@
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)| [Java](./algorithms/mergeTwoBinaryTrees/Solution.java)
 |595|[Big Countries](https://leetcode.com/problems/big-countries/)| [Mysql](./algorithms/bigCountries/Solution.sql) |Easy|
 |581|[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | |Easy|
+|575|[Distrubute Candies](https://leetcode.com/problems/distribute-candies/)| [java](./algorithms/distributeCandies/Solution.java) |Easy|
 |572|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | |Easy|
 |563|[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/) | [java](./algorithms/binaryTreeTilt/Solution.java) |Easy|
 |547|[Friend Circles](https://leetcode.com/problems/friend-circles/) | |Medium|
@@ -258,7 +262,7 @@
 |172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | |Easy|
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [Java](./algorithms/excelSheetColumnNumber/Solution.java)  |Easy|
 |170|[Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/) &hearts; | |Easy|
-|169|[Majority Element](https://leetcode.com/problems/majority-element/) | |Easy|
+|169|[Majority Element](https://leetcode.com/problems/majority-element/) | [java](./algorithms/majorElement/Solution.java) |Easy|
 |168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | [Java](./algorithms/excelSheetColumnTitle/Solution.java)  |Easy|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) &hearts; | |Medium|
 |166|[Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) | |Medium|
