@@ -98,6 +98,7 @@
 |438|[Find all Anagrams in a string](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | |Medium|
 |437|[Path Sum III](https://leetcode.com/problems/path-sum-iii/) | |Medium|
 |418|[SentenceScreenFitting](https://leetcode.com/problems/sentence-screen-fitting/) &hearts; | |Easy|
+|417|[Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | [js](./algorithms/pacificAtlanticWaterFlow/pacificAtlanticWaterFlow.js) |Medium|
 |416|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/) | |Medium|
 |415|[Add Strings](https://leetcode.com/problems/add-strings/) | |Easy|
 |414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | |Easy|
@@ -298,7 +299,7 @@
 |136|[Single Number](https://leetcode.com/problems/single-number/)| [java](./algorithms/singleNum/Solution.java)  |Medium|
 |135|[Candy](https://leetcode.com/problems/candy/)| |Hard|
 |134|[Gas Station](https://leetcode.com/problems/gas-station/)| |Medium|
-|133|[Clone Graph](https://leetcode.com/problems/clone-graph/)| |Medium|
+|133|[Clone Graph](https://leetcode.com/problems/clone-graph/)| [js](./algorithms/cloneGraph/cloneGraph.js) |Medium|
 |132|[Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/)| |Hard|
 |131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)| |Medium|
 |130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)| |Medium|
@@ -366,7 +367,7 @@
 |68|[Text Justification](https://leetcode.com/problems/text-justification/)| |Hard|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)| [java](./algorithms/addBinary/Solution.java) |Easy|
 |66|[Plus One](https://leetcode.com/problems/plus-one/)| |Easy|
-|65|[Valid Number](https://leetcode.com/problems/valid-number/)| |Easy|
+|65|[Valid Number](https://leetcode.com/problems/valid-number/)| [js](./algorithms/validNumber/validNumber.js)  |Easy|
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)| |Medium|
 |63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)| |Medium|
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/)| |Medium|
