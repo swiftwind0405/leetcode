@@ -140,7 +140,7 @@
 |357|[Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/) | |Medium|
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [js](./algorithms/intersectionOfTwoArraysII/intersectionOfTwoArraysII.js) |Easy|
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [js](./algorithms/intersectionOfTwoArrays/intersectionOfTwoArrays.js) |Easy|
-|347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | |Medium|
+|347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [js](./algorithms/topKFrequentElements/Solution.js) |Medium|
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | |Easy|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/) [java](./algorithms/resverseString/Solution.java), [js](./algorithms/resverseString/resverseString.js) | |Easy|
 |343|[Integer Break](https://leetcode.com/problems/integer-break/) | |Medium|
@@ -223,7 +223,7 @@
 |218|[The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)| |Hard|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)| |Easy|
 |216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/)| |Medium|
-|215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)| |Medium|
+|215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)| [js](./algorithms/KthLargestElementInAnArray/KthLargestElementInAnArray.js) |Medium|
 |214|[Shortest Palindrome](https://leetcode.com/problems/shortest-palindrome/)| |Hard|
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii/)| |Medium|
 |212|[Word Search II](https://leetcode.com/problems/word-search-ii/)| |Hard|
@@ -409,7 +409,7 @@
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|  [java](./algorithms/removeDuplicatesFromSortedArray/Solution.java)  |Easy|
 |25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)| |Hard|
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)| [js](./algorithms/swapNodesInPairs/swapNodesInPairs.js) |Medium|
-|23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)| |Hard|
+|23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)| [js](./algorithms/mergeKSortedLists/Solution.js) |Hard|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)| [js](./algorithms/generateParentheses/generateParentheses.js) |Medium|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [java](./algorithm/mergeTwoSortedLists/Solution.java), [js](./algorithms/mergeTwoSortedLists/mergeTwoSortedLists.js) |Easy|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| [js](./algorithms/validParentheses/validParentheses.js) |Easy|
