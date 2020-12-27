@@ -75,7 +75,8 @@
 |647|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | |Medium|
 |643|[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/) | |Easy|
 |628|[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | |Easy|
-|627|[Swap Salary](https://leetcode.com/problems/swap-salary/) | [Mysql](./algorithm/swapSalary/Solution.java) | |Easy|
+|627|[Swap Salary](https://leetcode.com/problems/swap-salary/) | [Mysql](./algorithm/swapSalary/Solution.java) | |Medium|
+|626|[Exchange Seats](https://leetcode.com/problems/exchange-seats/) | [Mysql](./algorithm/swapSalary/Solution.java) | |Easy|
 |623|[Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/) | |Medium|
 |620|[Not Boring Movies](https://leetcode.com/problems/not-boring-movies/)| [Mysql](./algorithms/notBoringMovies/Solution.sql) |Easy|
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)| [Java](./algorithms/mergeTwoBinaryTrees/Solution.java)
@@ -193,6 +194,7 @@
 |268|[Missing Number](https://leetcode.com/problems/missing-number/)| |Medium|
 |264|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)| |Medium|
 |263|[Ugly Number](https://leetcode.com/problems/ugly-number/)| |Easy|
+|262|[Trips and Users](https://leetcode.com/problems/trips-and-users/)| [Mysql](./algorithms/tripsAndUsers/Solution.sql) |Hard|
 |260|[Single Number III](https://leetcode.com/problems/single-number-iii/)| |Medium|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)| |Easy|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)| |Easy|
@@ -233,7 +235,7 @@
 |208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)| |Medium|
 |207|[Course Schedule](https://leetcode.com/problems/course-schedule/)| |Medium|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)| [java](./algorithms/reverseLinkedList/Solution.java), [js](./algorithms/reverseLinkedList/reverseLinkedList.js) |Easy|
-|205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)| |Easy|
+|205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)| [java](./algorithms/ismorphicStrings/Solution.java) |Easy|
 |204|[Count Primes](https://leetcode.com/problems/count-primes/)| |Easy|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)| [js](./algorithms/removeLinkedListElements/removeLinkedListElements.js),[java](./algorithms/removeLinkedListElements/Solution.java) |Easy|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)| |Easy|
