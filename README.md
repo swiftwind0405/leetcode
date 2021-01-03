@@ -137,6 +137,7 @@
 |380|[Insert  GetRandom O(1)](https://leetcode.com/problems/insert--getrandom-o1/) | |Hard|
 |377|[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | |Medium|
 |376|[Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/) | |Medium|
+|374|[Guess Number Higher Or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | [js](./algorithms/guessNumberHigherOrLower/Solution.js) |Easy|
 |371|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/description/) | |Easy|
 |367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/description/) | |Easy|
 |357|[Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/) | |Medium|
@@ -215,7 +216,7 @@
 |229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/) | |Medium|
 |228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/)| |Easy|
 |227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)| |Medium|
-|226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)| [java](./algorithms/invertBinaryTree/Solution.java) |Easy|
+|226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)| [java](./algorithms/invertBinaryTree/Solution.java), [js](./algorithms/invertBinaryTree/Solution.js) |Easy|
 |225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)| |Medium|
 |224|[Basic Calculator](https://leetcode.com/problems/basic-calculator/)| |Medium|
 |223|[Rectangle Area](https://leetcode.com/problems/rectangle-area/)| |Easy|
@@ -335,7 +336,7 @@
 |103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)| |Medium|
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)| [js](./algorithms/binaryTreeLevelOrderTraversal/binaryTreeLevelOrderTraversal.js) |Easy|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)| [java](./algorithms/sysmetricTree/Solution.java) |Easy|
-|100|[Same Tree](https://leetcode.com/problems/same-tree/)| [java](./algorithms/sameTree/Solution.java) |Easy|
+|100|[Same Tree](https://leetcode.com/problems/same-tree/)| [java](./algorithms/sameTree/Solution.java), [js](./algorithms/sameTree/Solution.js) |Easy|
 |99|[Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)| |Hard|
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)| |Medium|
 |97|[Interleaving String](https://leetcode.com/problems/interleaving-string/)| |Hard|
