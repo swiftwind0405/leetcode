@@ -62,6 +62,7 @@
 |717|[1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/) | |Easy|
 |714|[Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee) | |Medium|
 |712|[Minimum ASCII  Sum for Two Strings](https://leetcode.com/problems/minimum-ascii--sum-for-two-strings/) | |Medium|
+|704|[Binary Search](https://leetcode.com/problems/binary-search/)| [Java](./algorithms/binarySearch/Solution.java)
 |695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | |Medium|
 |687|[Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/) | |Easy|
 |684|[Redundant Connection](https://leetcode.com/problems/redundant-connection/) | |Medium|
@@ -214,7 +215,7 @@
 |229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/) | |Medium|
 |228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/)| |Easy|
 |227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)| |Medium|
-|226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)| |Easy|
+|226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)| [java](./algorithms/invertBinaryTree/Solution.java) |Easy|
 |225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)| |Medium|
 |224|[Basic Calculator](https://leetcode.com/problems/basic-calculator/)| |Medium|
 |223|[Rectangle Area](https://leetcode.com/problems/rectangle-area/)| |Easy|
@@ -326,7 +327,7 @@
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)| [js](./algorithms/minimumDepthOfBinaryTree/minimumDepthOfBinaryTree.js) |Easy|
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)| [java](./algorithms/balancedBinaryTree/Solution.java) |Easy|
 |109|[Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)| |Medium|
-|108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)| |Medium|
+|108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)| [Java](./algorithms/convertSortedArrayToBST/Solution.java) |Medium|
 |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)| |Easy|
 |106|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)| |Medium|
 |105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)| |Medium|
