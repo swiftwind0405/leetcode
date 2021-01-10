@@ -16,7 +16,7 @@
 |1029|[Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/) | |Easy|
 |1028|[Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/) | |Hard|
 |1024|[Video Stitching](https://leetcode.com/problems/video-stitching/) | |Medium|
-|993|[Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/) | |Easy|
+|993|[Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/) | [java](./algorithm/cousinsInBinaryTree/solution.java) |Easy|
 |991|[Broken Calculator](https://leetcode.com/problems/broken-calculator/) | |Medium|
 |990|[Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/) | |Medium|
 |989|[Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) | |Easy|
@@ -35,6 +35,7 @@
 |976|[Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/) | |Easy|
 |971|[Flip Binary Tree To Match Preorder Traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/) | |Medium|
 |969|[Pancake Sorting](https://leetcode.com/problems/pancake-sorting/) | |Medium|
+|965|[Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/)| [Java](./algorithms/uniValuedBinaryTree/Solution.java)  |Easy|
 |961|[N-Repeated element in size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) | |Easy|
 |958|[Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) | |Medium|
 |951|[Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/) | |Medium|
@@ -80,7 +81,7 @@
 |626|[Exchange Seats](https://leetcode.com/problems/exchange-seats/) | [Mysql](./algorithm/swapSalary/Solution.java) | |Easy|
 |623|[Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/) | |Medium|
 |620|[Not Boring Movies](https://leetcode.com/problems/not-boring-movies/)| [Mysql](./algorithms/notBoringMovies/Solution.sql) |Easy|
-|617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)| [Java](./algorithms/mergeTwoBinaryTrees/Solution.java)
+|617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)| [Java](./algorithms/mergeTwoBinaryTrees/Solution.java) |Easy|
 |595|[Big Countries](https://leetcode.com/problems/big-countries/)| [Mysql](./algorithms/bigCountries/Solution.sql) |Easy|
 |581|[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | |Easy|
 |575|[Distrubute Candies](https://leetcode.com/problems/distribute-candies/)| [java](./algorithms/distributeCandies/Solution.java) |Easy|
@@ -199,7 +200,7 @@
 |262|[Trips and Users](https://leetcode.com/problems/trips-and-users/)| [Mysql](./algorithms/tripsAndUsers/Solution.sql) |Hard|
 |260|[Single Number III](https://leetcode.com/problems/single-number-iii/)| |Medium|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)| |Easy|
-|257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)| |Easy|
+|257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)| [Java](./algorithms/binaryTreePaths/solution.java) |Easy|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)| [js](./algorithms/validAnagram/validAnagram.js) |Easy|
 |241|[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)||Medium|
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)||Medium|
