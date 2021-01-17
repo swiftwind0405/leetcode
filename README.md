@@ -99,6 +99,7 @@
 |501|[Find Mode In Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/) | [java](./algorithms/findModeInBST/Solution.java) |Easy|
 |477|[Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/) | |Medium|
 |463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/) | |Easy|
+|455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [js](./algorithms/assignCookies/Solution.js) |Medium|
 |450|[NodeInABST](https://leetcode.com/problems/-node-in-a-bst/) | |Medium|
 |449|[Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/) | |Medium|
 |438|[Find all Anagrams in a string](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | |Medium|
@@ -248,7 +249,7 @@
 |201|[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)| |Medium|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)| |Medium|
 |199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)| |Medium|
-|198|[House Robber](https://leetcode.com/problems/house-robber/)| |Easy|
+|198|[House Robber](https://leetcode.com/problems/house-robber/)| [js](./algorithms/houseRobber/Solution.js) |Easy|
 |197|[Rising Temperature](https://leetcode.com/problems/rising-temperature/)| [Mysql](./algorithms/risingTemperature/Solution.sql) |Easy| 
 |196|[Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)| [Mysql](./algorithms/deleteDuplicateEmails/Solution.sql) |Easy| 
 |191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)| [java](./algorithms/numberof1bits/Solution.java) |Easy|
@@ -318,7 +319,7 @@
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)| |Easy|
 |124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)| |Hard|
 |123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)| |Hard|
-|122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)| |Medium|
+|122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)| [js](./algorithms/bestTimeToBuyAndSellStockIi/Solution.js) |Medium|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)| |Medium|
 |120|[Triangle](https://leetcode.com/problems/triangle/)| |Medium|
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)| |Easy|
