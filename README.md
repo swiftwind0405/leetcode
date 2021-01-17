@@ -339,7 +339,7 @@
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| [js](./algorithms/maximumDepthOfBinaryTree/maximumDepthOfBinaryTree.js) |Easy|
 |103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)| |Medium|
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)| [js](./algorithms/binaryTreeLevelOrderTraversal/binaryTreeLevelOrderTraversal.js) |Easy|
-|101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)| [java](./algorithms/sysmetricTree/Solution.java) |Easy|
+|101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)| [java](./algorithms/sysmetricTree/Solution.java), [js](./algorithms/sysmetricTree/Solution.js) |Easy|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/)| [java](./algorithms/sameTree/Solution.java), [js](./algorithms/sameTree/Solution.js) |Easy|
 |99|[Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)| |Hard|
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)| |Medium|
@@ -373,7 +373,7 @@
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)| [js](./algorithms/climbingStairs/climbingStairs.js), |Easy|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)| |Medium|
 |68|[Text Justification](https://leetcode.com/problems/text-justification/)| |Hard|
-|67|[Add Binary](https://leetcode.com/problems/add-binary/)| [java](./algorithms/addBinary/Solution.java) |Easy|
+|67|[Add Binary](https://leetcode.com/problems/add-binary/)| [java](./algorithms/addBinary/Solution.java), [js](./algorithms/addBinary/Solution.js) |Easy|
 |66|[Plus One](https://leetcode.com/problems/plus-one/)| |Easy|
 |65|[Valid Number](https://leetcode.com/problems/valid-number/)| [js](./algorithms/validNumber/validNumber.js)  |Easy|
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)| |Medium|
@@ -414,7 +414,7 @@
 |29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)| |Medium|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)| |Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)| [js](./algorithms/removeElement/removeElement.js) [python](./algorithms/removeElement/removeElement.python) |Easy|
-|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|  [java](./algorithms/removeDuplicatesFromSortedArray/Solution.java)  |Easy|
+|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [java](./algorithms/removeDuplicatesFromSortedArray/Solution.java), [js](./algorithms/removeDuplicatesFromSortedArray/Solution.js)  |Easy|
 |25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)| |Hard|
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)| [js](./algorithms/swapNodesInPairs/swapNodesInPairs.js) |Medium|
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)| [js](./algorithms/mergeKSortedLists/Solution.js) |Hard|
