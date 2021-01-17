@@ -64,6 +64,8 @@
 |714|[Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee) | |Medium|
 |712|[Minimum ASCII  Sum for Two Strings](https://leetcode.com/problems/minimum-ascii--sum-for-two-strings/) | |Medium|
 |704|[Binary Search](https://leetcode.com/problems/binary-search/)| [Java](./algorithms/binarySearch/Solution.java)
+|701|[Insert Into A Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)| [Java](./algorithms/insertIntoABST/Solution.java)
+|700|[Search In A Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)| [Java](./algorithms/searchInABST/Solution.java)
 |695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | |Medium|
 |687|[Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/) | |Easy|
 |684|[Redundant Connection](https://leetcode.com/problems/redundant-connection/) | |Medium|
@@ -94,6 +96,7 @@
 |520|[Detect Capital](https://leetcode.com/problems/detect-capital/) | |Easy|
 |518|[Coin Change 2](https://leetcode.com/problems/coin-change-2/) | |Medium|
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [java](./algorithms/fibonacciNumber/Solution.java) |Easy|
+|501|[Find Mode In Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/) | [java](./algorithms/findModeInBST/Solution.java) |Easy|
 |477|[Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/) | |Medium|
 |463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/) | |Easy|
 |450|[NodeInABST](https://leetcode.com/problems/-node-in-a-bst/) | |Medium|
