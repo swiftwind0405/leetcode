@@ -281,7 +281,7 @@
 |163|[Missing Ranges](https://leetcode.com/problems/missing-ranges/) &hearts; | |Medium|
 |162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/) | |Medium|
 |161|[One Edit Distance](https://leetcode.com/problems/one-edit-distance/)&hearts; | |Medium|
-|160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [java](./algorithms/intersectionOfTwoLinkedLists/Solution.java)  |Easy|
+|160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [java](./algorithms/intersectionOfTwoLinkedLists/Solution.java), [js](./algorithms/intersectionOfTwoLinkedLists/Solution.js)  |Easy|
 |159|[Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/) &hearts; | |Hard|
 |158|[Read N Characters Given Read4 II - Call multiple times](https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/) &hearts; | |Hard|
 |157|[Read N Characters Given Read4](https://leetcode.com/problems/read-n-characters-given-read4/) &hearts; | |Easy|
@@ -363,7 +363,7 @@
 |81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)| |Medium|
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)| |Medium|
 |79|[Word Search](https://leetcode.com/problems/word-search/)| |Medium|
-|78|[Subsets](https://leetcode.com/problems/subsets/)| |Medium|
+|78|[Subsets](https://leetcode.com/problems/subsets/)| [js](./algorithms/subsets/Solution.js) |Medium|
 |77|[Combinations](https://leetcode.com/problems/combinations/)| |Medium|
 |76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)| |Hard|
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors/)| |Medium|
@@ -395,7 +395,7 @@
 |49|[Group Anagrams](https://leetcode.com/problems/anagrams/)| |Medium|
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/)| |Medium|
 |47|[Permutations II](https://leetcode.com/problems/permutations-ii/)| |Hard|
-|46|[Permutations](https://leetcode.com/problems/permutations/)| |Medium|
+|46|[Permutations](https://leetcode.com/problems/permutations/)| [js](./algorithms/permutations/Solution.js) |Medium|
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)| |Hard|
 |44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)| |Hard|
 |43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)| |Medium|
