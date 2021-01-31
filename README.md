@@ -216,7 +216,7 @@
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)| [java](./algorithms/palindromeLinkedList/Solution.java) |Easy|
 |233|[Number of Digit One](https://leetcode.com/problems/number-of-digit-one/)| |Medium|
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)| |Easy|
-|231|[Power of Two](https://leetcode.com/problems/power-of-two/)| |Easy|
+|231|[Power of Two](https://leetcode.com/problems/power-of-two/)| [java](./algorithms/powerOfTwo/Solution.java) |Easy|
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)| |Medium|
 |229|[Majority Element II](https://leetcode.com/problems/majority-element-ii/) | |Medium|
 |228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/)| |Easy|
@@ -353,7 +353,7 @@
 |91|[Decode Ways](https://leetcode.com/problems/decode-ways/)| |Medium|
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii/)| |Medium|
 |89|[Gray Code](https://leetcode.com/problems/gray-code/)| |Medium|
-|88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)| |Easy|
+|88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)| [java](./algorithms/mergeSortedArray/Solution.java) |Easy|
 |87|[Scramble String](https://leetcode.com/problems/scramble-string/)| |Hard|
 |86|[Partition List](https://leetcode.com/problems/partition-list/)| |Medium|
 |85|[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)| |Hard|
@@ -371,7 +371,7 @@
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)| |Medium|
 |72|[Edit Distance](https://leetcode.com/problems/edit-distance/)| |Hard|
 |71|[Simplify Path](https://leetcode.com/problems/simplify-path/)| |Medium|
-|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)| [js](./algorithms/climbingStairs/climbingStairs.js), |Easy|
+|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)| [js](./algorithms/climbingStairs/climbingStairs.js),[java](./algorithms/climbingStairs/Solution.java) |Easy|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)| |Medium|
 |68|[Text Justification](https://leetcode.com/problems/text-justification/)| |Hard|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)| [java](./algorithms/addBinary/Solution.java), [js](./algorithms/addBinary/Solution.js) |Easy|
