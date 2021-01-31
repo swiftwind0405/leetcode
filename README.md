@@ -273,7 +273,7 @@
 |171|[Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [Java](./algorithms/excelSheetColumnNumber/Solution.java)  |Easy|
 |170|[Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/) &hearts; | |Easy|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/) | [java](./algorithms/majorElement/Solution.java) |Easy|
-|168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | [Java](./algorithms/excelSheetColumnTitle/Solution.java)  |Easy|
+|168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | [Java](./algorithms/excelSheetColumnTitle/Solution.java), [js](./algorithms/excelSheetColumnTitle/Solution.js)  |Easy|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) &hearts; | |Medium|
 |166|[Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) | |Medium|
 |165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | |Easy|
@@ -331,7 +331,7 @@
 |113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/)| |Medium|
 |112|[Path Sum](https://leetcode.com/problems/path-sum/)| [js](./algorithms/pathSum/pathSum.js) |Easy|
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)| [js](./algorithms/minimumDepthOfBinaryTree/minimumDepthOfBinaryTree.js) |Easy|
-|110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)| [java](./algorithms/balancedBinaryTree/Solution.java) |Easy|
+|110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)| [java](./algorithms/balancedBinaryTree/Solution.java), [js](./algorithms/balancedBinaryTree/Solution.js)  |Easy|
 |109|[Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)| |Medium|
 |108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)| [Java](./algorithms/convertSortedArrayToBST/Solution.java) |Medium|
 |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)| |Easy|
@@ -353,7 +353,7 @@
 |91|[Decode Ways](https://leetcode.com/problems/decode-ways/)| |Medium|
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii/)| |Medium|
 |89|[Gray Code](https://leetcode.com/problems/gray-code/)| |Medium|
-|88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)| [java](./algorithms/mergeSortedArray/Solution.java) |Easy|
+|88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)| [java](./algorithms/mergeSortedArray/Solution.java), [js](./algorithms/mergeSortedArray/Solution.js) |Easy|
 |87|[Scramble String](https://leetcode.com/problems/scramble-string/)| |Hard|
 |86|[Partition List](https://leetcode.com/problems/partition-list/)| |Medium|
 |85|[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)| |Hard|
