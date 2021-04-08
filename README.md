@@ -433,7 +433,7 @@
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)| |Medium|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)| [js](./algorithms/containerWithMostWater/containerWithMostWater.js) |Medium|
 |10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)| |Hard|
-|9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)| |Easy|
+|9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)| [java](./algorithm/palindromeNum/Solution.java) |Easy|
 |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)| |Easy|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)| [js](./algorithms/reverseInteger/reverseInteger.js),[java](./algorithms/reverseInteger/Solution.java)  |Easy|
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)| |Easy|
