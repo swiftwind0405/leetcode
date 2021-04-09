@@ -389,7 +389,7 @@
 |56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)| |Hard|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/)| |Medium|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)| |Medium|
-|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)| [js](./algorithms/maximumSubarray/maximumSubarray.js) |Medium|
+|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)| [js](./algorithms/maximumSubarray/maximumSubarray.js) [java](./algorithms/maximumSubarray/Solution.java)  |Medium|
 |52|[N-Queens II](https://leetcode.com/problems/n-queens-ii/)| |Hard|
 |51|[N-Queens](https://leetcode.com/problems/n-queens/)| |Hard|
 |50|["Pow(x, n)"](https://leetcode.com/problems/powx-n/)| |Medium|
