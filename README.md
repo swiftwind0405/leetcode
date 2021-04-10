@@ -151,7 +151,7 @@
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [js](./algorithms/intersectionOfTwoArrays/intersectionOfTwoArrays.js) |Easy|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [js](./algorithms/topKFrequentElements/Solution.js) |Medium|
 |345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | |Easy|
-|344|[Reverse String](https://leetcode.com/problems/reverse-string/) [java](./algorithms/resverseString/Solution.java), [js](./algorithms/resverseString/resverseString.js) | |Easy|
+|344|[Reverse String](https://leetcode.com/problems/reverse-string/) | [java](./algorithms/resverseString/Solution.java), [js](./algorithms/resverseString/resverseString.js) |Easy|
 |343|[Integer Break](https://leetcode.com/problems/integer-break/) | |Medium|
 |342|[Power of Four](https://leetcode.com/problems/power-of-four/) | |Easy|
 |341|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) | |Medium|
