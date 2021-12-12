@@ -63,6 +63,7 @@
 |717|[1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/) | |Easy|
 |714|[Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee) | |Medium|
 |712|[Minimum ASCII  Sum for Two Strings](https://leetcode.com/problems/minimum-ascii--sum-for-two-strings/) | |Medium|
+|709|[To Lower Case](https://leetcode.com/problems/to-lower-case/)| [js](./algorithms/toLowerCase/Solution.js)
 |704|[Binary Search](https://leetcode.com/problems/binary-search/)| [Java](./algorithms/binarySearch/Solution.java)
 |701|[Insert Into A Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)| [Java](./algorithms/insertIntoABST/Solution.java)
 |700|[Search In A Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)| [Java](./algorithms/searchInABST/Solution.java)
