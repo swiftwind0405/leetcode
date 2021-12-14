@@ -1,5 +1,10 @@
+import java.util.HashMap;
+import java.util.Map;
 
-class Solution {
+/**
+ * @author Dream
+ */
+public class uniqueNumberOfOccurrences {
     public boolean uniqueOccurrences(int[] arr) {
         Map<Integer, Integer> map = new HashMap(arr.length);
         for(int i : arr){
@@ -15,4 +20,5 @@ class Solution {
         }
         return true;
     }
+
 }
