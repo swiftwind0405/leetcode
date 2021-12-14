@@ -6,8 +6,8 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|1464|[Maximum Product of Two Elements in An Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)| [java](./algorithms/maximumProductOfTwoElementsInAnArray/Solution.java) |Easy|
-|1207|[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | |Easy|
+|1464|[Maximum Product of Two Elements in An Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)| [java](./algorithms/maximumProductOfTwoElementsInAnArray/Solution.java) [java_dream](./algorithms/maximumProductOfTwoElementsInAnArray_Dream/maximumProductOfTwoElementsInAnArray_Dream.java)|Easy|
+|1207|[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | [java](./algorithms/uniqueNumberOfOccurrences/uniqueNumberOfOccurrences.java)|Easy|
 |1179|[Reformat Department Table](https://leetcode.com/problems/reformat-department-table/)| [Mysql](./algorithms/reformatDepartmentTable/Solution.sql) |Easy| 
 |1170|[Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/) | |Easy|
 |1137|[N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | [js](./algorithms/nThTribonacciNumber/nThTribonacciNumber.js)  |Easy|
