@@ -7,9 +7,9 @@
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1464|[Maximum Product of Two Elements in An Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)| [java](./algorithms/maximumProductOfTwoElementsInAnArray/Solution.java) [java_dream](./algorithms/maximumProductOfTwoElementsInAnArray_Dream/maximumProductOfTwoElementsInAnArray_Dream.java)|Easy|
-|1207|[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | [java](./algorithms/uniqueNumberOfOccurrences/uniqueNumberOfOccurrences.java)|Easy|
+|1207|[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | [java_dream](./algorithms/uniqueNumberOfOccurrences/uniqueNumberOfOccurrences.java)|Easy|
 |1179|[Reformat Department Table](https://leetcode.com/problems/reformat-department-table/)| [Mysql](./algorithms/reformatDepartmentTable/Solution.sql) |Easy| 
-|1170|[Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/) | |Easy|
+|1170|[Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/) |[java_dream](./algorithms/compareStringsByFrequencyOfTheSmallestCharacter/CompareStringsByFrequencyOfTheSmallestCharacter.java) |Easy|
 |1137|[N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | [js](./algorithms/nThTribonacciNumber/nThTribonacciNumber.js)  |Easy|
 |1071|[Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) | |Easy|
 |1030|[Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order/) | |Easy|
