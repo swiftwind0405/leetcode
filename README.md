@@ -414,7 +414,7 @@
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/)| |Medium|
 |30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)| |Hard|
 |29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)| |Medium|
-|28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)| |Easy|
+|28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)| [js](./algorithms/implementStrstr/solution.js) |Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)| [js](./algorithms/removeElement/removeElement.js) [python](./algorithms/removeElement/removeElement.python) |Easy|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [java](./algorithms/removeDuplicatesFromSortedArray/Solution.java), [js](./algorithms/removeDuplicatesFromSortedArray/Solution.js)  |Easy|
 |25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)| |Hard|
