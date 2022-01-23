@@ -407,7 +407,7 @@
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/)| |Easy|
 |37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)| |Hard|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)| |Easy|
-|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)| |Medium|
+|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)| [js](./algorithms/searchInsertPosition/solution.js)  |Easy|
 |34|[Search for a Range](https://leetcode.com/problems/search-for-a-range/)| |Medium|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)| |Hard|
 |32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)| |Hard|
