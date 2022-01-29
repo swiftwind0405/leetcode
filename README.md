@@ -321,7 +321,7 @@
 |124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)| |Hard|
 |123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)| |Hard|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)| [js](./algorithms/bestTimeToBuyAndSellStockIi/Solution.js) |Medium|
-|121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)| [java](./algorithms/bestTimeToBuyAndSellStock/Solution.java) |Medium|
+|121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)| [java](./algorithms/bestTimeToBuyAndSellStock/Solution.java), [js](./algorithms/bestTimeToBuyAndSellStock/Solution.js) |Medium|
 |120|[Triangle](https://leetcode.com/problems/triangle/)| |Medium|
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)| |Easy|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)| |Easy|
