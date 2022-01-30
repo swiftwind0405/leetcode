@@ -19,7 +19,7 @@
 |993|[Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/) | [java](./algorithm/cousinsInBinaryTree/solution.java) |Easy|
 |991|[Broken Calculator](https://leetcode.com/problems/broken-calculator/) | |Medium|
 |990|[Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/) | |Medium|
-|989|[Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) | |Easy|
+|989|[Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) | [java_dream](./algorithms/addToArrayFormOfInteger/AddToArrayFormOfInteger.java)|Easy|
 |988|[Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/) | |Medium|
 |987|[Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | |Medium|
 |986|[Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) | |Medium|
