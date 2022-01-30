@@ -1,3 +1,15 @@
+/**
+ * Definition for singly-linked list.
+ * function ListNode(val, next) {
+ *     this.val = (val===undefined ? 0 : val)
+ *     this.next = (next===undefined ? null : next)
+ * }
+ */
+/**
+ * @param {ListNode} list1
+ * @param {ListNode} list2
+ * @return {ListNode}
+ */
 var mergeTwoLists = function(list1, list2) {
   // 数组的解法
   // let targetList = list1;
@@ -9,6 +21,7 @@ var mergeTwoLists = function(list1, list2) {
   // return targetList;
 
   // 链表
+  // 每次传进来的是 ListNode
   if (list1 === null) return list2;
   if (list2 === null) return list1;
 
@@ -20,5 +33,3 @@ var mergeTwoLists = function(list1, list2) {
     return list2
   }
 };
-
-console.log(mergeTwoLists([1, 2, 3], [2, 3, 8]));
