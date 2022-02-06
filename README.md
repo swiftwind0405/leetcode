@@ -25,7 +25,7 @@
 |987|[Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | |Medium|
 |986|[Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) | |Medium|
 |985|[Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/) | |Easy|
-|984|[String Without AAA or BBB](https://leetcode.com/problems/string-without-aaa-or-bbb/) | |Easy|
+|984|[String Without AAA or BBB](https://leetcode.com/problems/string-without-aaa-or-bbb/) | [java_dream](./algorithms/stringWithoutAaaOrBbb/StringWithoutAaaOrBbb.java) |Easy|
 |983|[Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/) | |Medium|
 |982|[Triples with Bitwise AND Equal To Zero](https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/) | |Hard|
 |981|[Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | |Medium|
