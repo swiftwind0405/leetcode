@@ -5,6 +5,7 @@
  var romanToInt = function(s) {
     const map = {
       I: 1,
+      IV: 4,
       V: 5,
       IX: 9,
       X: 10,
@@ -32,3 +33,5 @@
     console.log(result);
     return result;
 };
+
+romanToInt('CDXXXV')
