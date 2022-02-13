@@ -193,7 +193,7 @@
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)  | |Hard|
 |285|[Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/) &hearts; | |Medium|
 |284|[Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)  | |Medium|
-|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)  | |Easy|
+|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)  |  [js](./algorithms/moveZeroes/solution.js) |Easy|
 |282|[Expression Add Operators](https://leetcode.com/problems/expression-add-operators/)  | |Hard|
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/) | |Medium|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)| |Easy|
