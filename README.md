@@ -32,7 +32,7 @@
 |980|[Unique Paths III](https://leetcode.com/problems/unique-paths-iii/) | |Hard|
 |979|[Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/) | |Medium|
 |978|[Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/) | |Medium|
-|977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | |Easy|
+|977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [java_dream](./algorithms/squaresOfASortedArray/SquaresOfASortedArray.java) |Easy|
 |976|[Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/) | |Easy|
 |971|[Flip Binary Tree To Match Preorder Traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/) | |Medium|
 |969|[Pancake Sorting](https://leetcode.com/problems/pancake-sorting/) | |Medium|
