@@ -377,7 +377,7 @@
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)| |Medium|
 |68|[Text Justification](https://leetcode.com/problems/text-justification/)| |Hard|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)| [java](./algorithms/addBinary/Solution.java), [js](./algorithms/addBinary/Solution.js) |Easy|
-|66|[Plus One](https://leetcode.com/problems/plus-one/)| |Easy|
+|66|[Plus One](https://leetcode.com/problems/plus-one/)| [js](./algorithms/plusOne/solution.js) |Easy|
 |65|[Valid Number](https://leetcode.com/problems/valid-number/)| [js](./algorithms/validNumber/validNumber.js)  |Easy|
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)| |Medium|
 |63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)| |Medium|
