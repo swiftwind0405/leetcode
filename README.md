@@ -73,7 +73,7 @@
 |684|[Redundant Connection](https://leetcode.com/problems/redundant-connection/) | |Medium|
 |674|[Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/) | |Easy|
 |671|[Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/) | |Easy|
-|665|[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/) | |Easy|
+|665|[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/) | [Java_dream](./algorithms/nonDecreasingArray/NonDecreasingArray.java) |Easy|
 |662|[Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/) | |Medium|
 |661|[Image Smoother](https://leetcode.com/problems/image-smoother/) | |Easy|
 |655|[Print Binary Tree](https://leetcode.com/problems/print-binary-tree/) | |Medium|
