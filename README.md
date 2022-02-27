@@ -79,7 +79,7 @@
 |655|[Print Binary Tree](https://leetcode.com/problems/print-binary-tree/) | |Medium|
 |652|[Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/) | |Medium|
 |647|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | |Medium|
-|643|[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/) | |Easy|
+|643|[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/) | [Java_dream](./algorithms/maximumAverageSubarrayI/MaximumAverageSubarrayI.java) |Easy|
 |628|[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | |Easy|
 |627|[Swap Salary](https://leetcode.com/problems/swap-salary/) | [Mysql](./algorithm/swapSalary/Solution.java) | |Medium|
 |626|[Exchange Seats](https://leetcode.com/problems/exchange-seats/) | [Mysql](./algorithm/swapSalary/Solution.java) | |Easy|
