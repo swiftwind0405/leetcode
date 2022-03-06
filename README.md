@@ -88,7 +88,7 @@
 |620|[Not Boring Movies](https://leetcode.com/problems/not-boring-movies/)| [Mysql](./algorithms/notBoringMovies/Solution.sql) |Easy|
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)| [Java](./algorithms/mergeTwoBinaryTrees/Solution.java) |Easy|
 |595|[Big Countries](https://leetcode.com/problems/big-countries/)| [Mysql](./algorithms/bigCountries/Solution.sql) |Easy|
-|581|[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | |Easy|
+|581|[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | [Java_dream](./algorithms/shortestUnsortedContinuousSubarray/ShortestUnsortedContinuousSubarray.java) |Easy|
 |575|[Distrubute Candies](https://leetcode.com/problems/distribute-candies/)| [java](./algorithms/distributeCandies/Solution.java) |Easy|
 |572|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | |Easy|
 |563|[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/) | [java](./algorithms/binaryTreeTilt/Solution.java) |Easy|
