@@ -7,6 +7,7 @@
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1929|[Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [js](./algorithms/concatenationOfArray/Solution.js)  |Easy|
+|1920|[Concatenation of Array](https://leetcode.com/problems/build-array-from-permutation/) | [js](./algorithms/buildArrayFromPermutation/Solution.js)  |Easy|
 |1464|[Maximum Product of Two Elements in An Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)| [java](./algorithms/maximumProductOfTwoElementsInAnArray/Solution.java) [java_dream](./algorithms/maximumProductOfTwoElementsInAnArray_Dream/maximumProductOfTwoElementsInAnArray_Dream.java)|Easy|
 |1207|[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) | [java_dream](./algorithms/uniqueNumberOfOccurrences/uniqueNumberOfOccurrences.java)|Easy|
 |1179|[Reformat Department Table](https://leetcode.com/problems/reformat-department-table/)| [Mysql](./algorithms/reformatDepartmentTable/Solution.sql) |Easy| 
