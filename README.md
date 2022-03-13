@@ -450,3 +450,8 @@
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |面试题 08.06|[汉诺塔问题](https://leetcode-cn.com/problems/hanota-lcci/) | [js](./algorithms/hanotaLcc/hanotaLcc.js) |Easy|
+
+## 剑指 Offer
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|53 - II|[0～n-1中缺失的数字](https://leetcode-cn.com/problems/que-shi-de-shu-zi-lcof/) | [js](./algorithms/queShiDeShuZiLcof/solution.js) |Easy|
