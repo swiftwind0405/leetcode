@@ -60,7 +60,7 @@
 |804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/) | |Easy|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description) | |Easy|
 |747|[Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/) | |Easy|
-|746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | |Easy|
+|746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Java_dream](./algorithms/minCostClimbingStairs/MinCostClimbingStairs.java)|Easy|
 |721|[Accounts Merge](https://leetcode.com/problems/accounts-merge/) | |Medium|
 |717|[1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/) | |Easy|
 |714|[Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee) | |Medium|
