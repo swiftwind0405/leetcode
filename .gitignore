@@ -1,4 +1,4 @@
 .DS_Store
-.vscode/settings.json
-.vscode/launch.json
+.vscode
+.idea
 sqltools_20201017160659_98747.log
