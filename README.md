@@ -255,7 +255,7 @@
 |198|[House Robber](https://leetcode.com/problems/house-robber/)| [js](./algorithms/houseRobber/Solution.js) |Easy|
 |197|[Rising Temperature](https://leetcode.com/problems/rising-temperature/)| [Mysql](./algorithms/risingTemperature/Solution.sql) |Easy| 
 |196|[Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)| [Mysql](./algorithms/deleteDuplicateEmails/Solution.sql) |Easy| 
-|191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)| [java](./algorithms/numberof1bits/Solution.java) |Easy|
+|191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)| [java](./algorithms/numberof1bits/Solution.java), [js](./algorithms/numberof1bits/Solution.js) |Easy|
 |190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)| |Easy|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)| |Easy|
 |188|[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)| |Hard|
