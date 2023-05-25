@@ -395,7 +395,7 @@
 |52|[N-Queens II](https://leetcode.com/problems/n-queens-ii/)| |Hard|
 |51|[N-Queens](https://leetcode.com/problems/n-queens/)| |Hard|
 |50|["Pow(x, n)"](https://leetcode.com/problems/powx-n/)| |Medium|
-|49|[Group Anagrams](https://leetcode.com/problems/anagrams/)| |Medium|
+|49|[Group Anagrams](https://leetcode.com/problems/anagrams/)| [js](./algorithms/groupAnagrams/solution.js) |Medium|
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/)| |Medium|
 |47|[Permutations II](https://leetcode.com/problems/permutations-ii/)| |Hard|
 |46|[Permutations](https://leetcode.com/problems/permutations/)| [js](./algorithms/permutations/Solution.js) |Medium|
